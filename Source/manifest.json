@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt Plus",
-	"version": "1.2",
-	"description": "Replaces the text 'the cloud' with 'my butt', as well as 'cloud' with 'butt' in certain contexts.",
+	"name": "ICE To Gestapo",
+	"version": "1.0",
+	"description": "Replaces the text 'ICE' with 'US Gestapo'.",
 	"content_scripts": 
 	[
 		{
@@ -12,4 +12,3 @@
 		}
 	]
 }
-
